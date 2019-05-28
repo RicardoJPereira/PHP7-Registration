@@ -11,6 +11,8 @@ Customer Registration System PHP7-Procedural
   <li>HTML</li>
 
   <li>MATERIALIZECSS</li>
+  
+  <li>PHPMYADMIN</li>
 
 </ul>
 
